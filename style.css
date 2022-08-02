@@ -1,3 +1,4 @@
-body{background-color: blueviolet}
+body{background-color: rgb(142, 150, 168)}
 h1, h2 {font-size: 50px; text-align: center; color: #5681F0}
 p {background-color: #17a; text-align: justify; color: purple;}
+title {font-size: 20px; text-align: left;}
